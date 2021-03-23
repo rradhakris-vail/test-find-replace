@@ -1,4 +1,4 @@
-name: My Workflow
+name: Test Workflow
 on: [push, pull_request]
 jobs:
   build:
@@ -8,5 +8,5 @@ jobs:
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@master
         with:
-          find: "hi"
-          replace: "hello"
+          find: "hello"
+          replace: "world"

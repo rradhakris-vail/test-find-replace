@@ -1,4 +1,4 @@
-name: Test Workflow
+name: My Workflow
 on: [push, pull_request]
 jobs:
   build:
@@ -6,7 +6,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@0.1.2
+        uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "hello"
           replace: "world"
+          include: "README.md"

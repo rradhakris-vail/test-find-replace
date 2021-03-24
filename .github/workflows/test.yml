@@ -10,3 +10,4 @@ jobs:
         with:
           find: "hello"
           replace: "world"
+          include: "README.md"

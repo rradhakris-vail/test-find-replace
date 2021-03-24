@@ -1,10 +1,10 @@
 # test-find-replace
 
-Replace hi with hello
-hi
-hi
-hi
-hi
-hi
-hi
+Replace hiiiii with hello
+hiiiii
+hiiiii
+hiiiii
+hiiiii
+hiiiii
+hiiiii
 

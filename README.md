@@ -1,6 +1,6 @@
 # test-find-replace
 
-Replace hiiiii with hello
+Replace hiiiii with world
 hiiiii
 hiiiii
 hiiiii

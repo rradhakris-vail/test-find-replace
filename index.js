@@ -1,3 +1,3 @@
-//hello hello hello
+//hellos hellos hellos
 
-console.log("hello")
+console.log("hellos")

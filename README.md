@@ -1,10 +1,10 @@
 # test-find-replace
 
-hii hii with world
-hii
-hii
-hii
-hii
-hii
-hii
+hello hello with world
+hello
+hello
+hello
+hello
+hello
+hello
 

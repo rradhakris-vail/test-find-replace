@@ -1,3 +1,3 @@
 //demo demo demo
 
-console.log("demmmooo")
+console.log("demo")
